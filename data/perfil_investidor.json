@@ -1,23 +1,139 @@
 {
-  "nome": "João Silva",
-  "idade": 32,
-  "profissao": "Analista de Sistemas",
-  "renda_mensal": 5000.00,
-  "perfil_investidor": "moderado",
-  "objetivo_principal": "Construir reserva de emergência",
-  "patrimonio_total": 15000.00,
-  "reserva_emergencia_atual": 10000.00,
-  "aceita_risco": false,
-  "metas": [
+  "investidores": [
     {
-      "meta": "Completar reserva de emergência",
-      "valor_necessario": 15000.00,
-      "prazo": "2026-06"
+      "nome": "Carla Torres",
+      "idade": 28,
+      "profissao": "Desenvolvedora Web3",
+      "renda_mensal": 8500.00,
+      "perfil_investidor": "arrojado",
+      "objetivo_principal": "Alocação em DeFi e governança de DAOs",
+      "patrimonio_total": 125000.00,
+      "exposicao_crypto": 45,
+      "reserva_emergencia_atual": 30000.00,
+      "aceita_risco": true,
+      "conhecimento_blockchain": "avançado",
+      "metas": [
+        {
+          "meta": "Alocação em yield farming (ETH)",
+          "valor_necessario": 25000.00,
+          "prazo": "2024-12",
+          "tipo": "DeFi"
+        },
+        {
+          "meta": "Participação em governança de DAO",
+          "valor_necessario": 15000.00,
+          "prazo": "2025-06",
+          "tipo": "Governança"
+        }
+      ]
     },
     {
-      "meta": "Entrada do apartamento",
-      "valor_necessario": 50000.00,
-      "prazo": "2027-12"
+      "nome": "Marcos Ribeiro",
+      "idade": 42,
+      "profissao": "Advogado Tributário",
+      "renda_mensal": 22000.00,
+      "perfil_investidor": "moderado",
+      "objetivo_principal": "Diversificação com Bitcoin e Ethereum",
+      "patrimonio_total": 850000.00,
+      "exposicao_crypto": 8,
+      "reserva_emergencia_atual": 120000.00,
+      "aceita_risco": false,
+      "conhecimento_blockchain": "intermediário",
+      "metas": [
+        {
+          "meta": "Alocação de 5% do patrimônio em BTC",
+          "valor_necessario": 42500.00,
+          "prazo": "2025-12",
+          "tipo": "Reserva de Valor"
+        },
+        {
+          "meta": "Staking de Ethereum",
+          "valor_necessario": 32000.00,
+          "prazo": "2024-09",
+          "tipo": "Renda Passiva"
+        }
+      ]
+    },
+    {
+      "nome": "Fernanda Lima",
+      "idade": 35,
+      "profissao": "Gestora de Marketing",
+      "renda_mensal": 15000.00,
+      "perfil_investidor": "conservador",
+      "objetivo_principal": "Primeira exposição a criptomoedas",
+      "patrimonio_total": 280000.00,
+      "exposicao_crypto": 0,
+      "reserva_emergencia_atual": 75000.00,
+      "aceita_risco": false,
+      "conhecimento_blockchain": "iniciante",
+      "metas": [
+        {
+          "meta": "Primeira compra de Bitcoin",
+          "valor_necessario": 5000.00,
+          "prazo": "2024-08",
+          "tipo": "Educacional"
+        },
+        {
+          "meta": "Curso sobre segurança de wallets",
+          "valor_necessario": 800.00,
+          "prazo": "2024-06",
+          "tipo": "Educação"
+        }
+      ]
+    },
+    {
+      "nome": "Ricardo Almeida",
+      "idade": 26,
+      "profissao": "Trader Autônomo",
+      "renda_mensal": 18000.00,
+      "perfil_investidor": "agressivo",
+      "objetivo_principal": "Trading de altcoins e alavancagem",
+      "patrimonio_total": 65000.00,
+      "exposicao_crypto": 85,
+      "reserva_emergencia_atual": 10000.00,
+      "aceita_risco": true,
+      "conhecimento_blockchain": "avançado",
+      "metas": [
+        {
+          "meta": "Capital para trading alavancado",
+          "valor_necessario": 25000.00,
+          "prazo": "2024-07",
+          "tipo": "Trading"
+        },
+        {
+          "meta": "Participação em IDO de gaming",
+          "valor_necessario": 12000.00,
+          "prazo": "2024-10",
+          "tipo": "Venture"
+        }
+      ]
+    },
+    {
+      "nome": "Beatriz Santos",
+      "idade": 50,
+      "profissao": "Médica",
+      "renda_mensal": 35000.00,
+      "perfil_investidor": "moderado-conservador",
+      "objetivo_principal": "Proteção contra inflação com stablecoins",
+      "patrimonio_total": 1200000.00,
+      "exposicao_crypto": 3,
+      "reserva_emergencia_atual": 200000.00,
+      "aceita_risco": false,
+      "conhecimento_blockchain": "básico",
+      "metas": [
+        {
+          "meta": "Alocação em stablecoins (USDC)",
+          "valor_necessario": 100000.00,
+          "prazo": "2024-12",
+          "tipo": "Preservação"
+        },
+        {
+          "meta": "Yield em protocolos de baixo risco",
+          "valor_necessario": 50000.00,
+          "prazo": "2025-03",
+          "tipo": "Renda"
+        }
+      ]
     }
   ]
 }
