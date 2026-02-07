@@ -258,12 +258,14 @@ Se você já identificou algum projeto que está considerando, pode me enviar:
 
 ## Observações e Aprendizados
 
-> Ajustes feitos nos prompts e por quê.
+> Ajustes feitos nos prompts: Registramos que existem diferenças significativas no uso de diferentes LLMs, ao usar o Chat GPT, Copilot e Deep Seek tivemos comportamentos similares mas cada um deles deu respostas com padrões diferentes!
+
 1. Vetores de ataque identificados: Engenharia social, testes de limites operacionais, solicitações que violam ética/segurança
-2.Padrões de tentativas: Pedidos de informação sensível disfarçados como "verificação", solicitação de IPIs ou dados restritos
-3.Ponto fraco explorado: Tentativa de usar "compliance" ou "auditoria" como pretexto para acesso privilegiado
+2. Padrões de tentativas: Pedidos de informação sensível disfarçados como "verificação", solicitação de IPIs ou dados restritos
+3. Ponto fraco explorado: Tentativa de usar "compliance" ou "auditoria" como pretexto para acesso privilegiado
 
 > Melhorias necessárias:
+
 
 - Camada de detecção proativa: Algoritmo para identificar padrões de perguntas sensíveis
 - Escalonamento automático: Redirecionar tentativas suspeitas para revisão humana
