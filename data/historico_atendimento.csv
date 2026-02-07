@@ -1,6 +1,51 @@
 data,canal,tema,resumo,resolvido
-2025-09-15,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
-2025-09-22,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
-2025-10-01,chat,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim
-2025-10-12,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
-2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
+2024-03-15,Telegram,Auditoria de Contrato,"Usuário enviou contrato de yield farming para análise de funções de mint não documentadas.",Sim
+2024-03-15,Widget Web,Verificação de Rug Pull,"Cliente solicitou verificação de contrato de memecoin para padrões de rug pull clássicos.",Sim
+2024-03-14,Discord,Análise de Herança,"Análise de herança de contrato upgradeable em protocolo de empréstimo.",Sim
+2024-03-14,API,Scanner de Vulnerabilidades,"Integração via API para scan automático em lista de contratos de um fundo.",Sim
+2024-03-13,Telegram,Dúvida Técnica,"Usuário questionou significado de função 'renounceOwnership' no relatório.",Sim
+2024-03-13,Widget Web,Verificação de Auditoria,"Comparação de hash do contrato implantado com o auditado pela CertiK. Divergência encontrada.",Sim
+2024-03-12,Email,Relatório Detalhado,"Solicitação de relatório em PDF para due diligence institucional.",Sim
+2024-03-12,Discord,Alerta de Suspensão,"Cliente alertou sobre função 'pause' ativável por único endereço. Risco médio.",Sim
+2024-03-11,Telegram,Análise Simples,"Verificação rápida de contrato de staking. Nenhuma vulnerabilidade comum detectada.",Sim
+2024-03-11,API,Monitoramento Contínuo,"Configuração de monitor para alterações em contrato upgradeable de DeFi.",Sim
+2024-03-10,Widget Web,Análise de Tokenomics,"Verificação de funções de queima (burn) e taxas em contrato de utility token.",Sim
+2024-03-10,Discord,Dúvida sobre Score,"Esclarecimento sobre como o score de risco 'B' foi calculado para um contrato.",Sim
+2024-03-09,Email,Solicitação de Reanálise,"Usuário pediu reanálise após deploy de nova versão do contrato.",Sim
+2024-03-09,Telegram,Verificação de Proxies,"Análise de proxy transparente para verificar admin rights ocultos.",Nao
+2024-03-08,Widget Web,Comparação de Contratos,"Cliente comparou dois contratos de DEX para escolher o mais seguro.",Sim
+2024-03-08,API,Health Check,"Teste de integridade da API para cliente corporativo.",Sim
+2024-03-07,Discord,Alerta Falso Positivo,"Usuário reportou possível falso positivo em função de emergencyWithdraw.",Sim
+2024-03-07,Telegram,Análise de Contrato Fechado,"Contrato com código-fonte não verificado. Análise limitada ao bytecode.",Nao
+2024-03-06,Email,Suporte Técnico,"Problemas para interpretar o output da função 'getRiskFlags'.",Sim
+2024-03-06,Widget Web,Auditoria de Bridge,"Verificação de contrato de bridge cross-chain para backdoor.",Sim
+2024-03-05,Discord,Dúvida sobre Timelock,"Explicação sobre período de timelock em contrato governance e implicações.",Sim
+2024-03-05,API,Batch Analysis,"Análise em lote de 50 endereços de contratos para fundo de investimento.",Sim
+2024-03-04,Telegram,Verificação de Airdrop,"Cliente desconfiou de contrato de airdrop. Detectado função de drenagem de aprovações.",Sim
+2024-03-04,Widget Web,Monitor de Admin Keys,"Alerta: mudança de chaves administrativas em contrato auditado há 3 meses.",Sim
+2024-03-03,Email,Tradução de Termos,"Solicitação de glossário técnico simplificado para relatório.",Sim
+2024-03-03,Discord,Análise de Fork,"Verificação de segurança de fork de protocolo conhecido. Encontradas dependências não atualizadas.",Sim
+2024-03-02,Telegram,Consulta Urgente,"Análise emergencial de contrato após rumor de exploit na comunidade. Confirmada vulnerabilidade.",Sim
+2024-03-02,API,Webhook Down,"Falha na entrega de webhook para alerta de mudança de contrato. Resolvido em 1h.",Sim
+2024-03-01,Widget Web,Relatório Comparativo,"Geração de relatório lado a lado entre versões 1.0 e 2.0 de um contrato.",Sim
+2024-03-01,Discord,Explicação de Código,"Explicação linha a linha de função de callback em contrato complexo.",Nao
+2024-02-29,Email,Solicitação de Feature,"Pedido para incluir verificação de padrão ERC-777 nos relatórios.",Nao
+2024-02-29,Telegram,Verificação de Wallet,"Análise de contrato de wallet multisig. Estrutura válida e segura.",Sim
+2024-02-28,Widget Web,Scanner de NFT,"Análise de contrato de coleção NFT para funções de congelamento não declaradas.",Sim
+2024-02-28,API,Timeout em Análise,"Falha por timeout na análise de contrato extremamente grande. Requer otimização.",Nao
+2024-02-27,Discord,Dúvida sobre Oracles,"Riscos associados ao uso de oracles centralizados no contrato analisado.",Sim
+2024-02-27,Telegram,Alerta de Golpe,"Usuário enviou link de contrato falso que imitava projeto legítimo. Confirmado scam.",Sim
+2024-02-26,Email,Demanda Corporativa,"Consultoria para desenho de padrão de segurança interno baseado em nossas ferramentas.",Nao
+2024-02-26,Widget Web,Verificação de Deployer,"Histórico de transações do endereço deployer associado a contratos maliciosos. Risco alto.",Sim
+2024-02-25,Discord,Análise de DAO,"Verificação de contrato de treasury DAO e permissões de votação.",Sim
+2024-02-25,API,Problema de Autenticação,"Erro 403 em chamadas API devido a chave expirada. Renovada.",Sim
+2024-02-24,Telegram,Dúvida sobre Fees,"Como taxas escondidas em contratos de swap são identificadas.",Sim
+2024-02-24,Widget Web,Auditoria Rápida,"Pré-auditoria para projeto antes de enviar para firma especializada. 3 pontos críticos encontrados.",Sim
+2024-02-23,Email,Report Bug,"Usuário reportou incoerência entre risco alto no relatório e score 92/100.",Sim
+2024-02-23,Discord,Discussão Técnica,"Debate sobre efetividade de pausar contratos vs. mecanismos de emergency exit.",Nao
+2024-02-22,Telegram,Verificação de Migração,"Contrato de migração de V1 para V2. Verificada ausência de backdoor.",Sim
+2024-02-22,API,Excesso de Requisições,"Cliente excedeu limite de requests. Plano atualizado.",Sim
+2024-02-21,Widget Web,Análise de Contrato Abandonado,"Contrato com dono renunciado, mas com taxas acumuladas não sacáveis. Risco baixo.",Sim
+2024-02-21,Discord,Pedido de Integração,"Comunidade pediu integração do bot com servidor de outro projeto.",Nao
+2024-02-20,Email,Reclamação,"Atraso na análise de contrato complexo. Explicado sobre fila prioritária.",Sim
+2024-02-20,Telegram,Agradecimento,"Usuário agradeceu por identificar vulnerabilidade que teria causado perda de fundos.",Sim
