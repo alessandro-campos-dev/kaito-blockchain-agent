@@ -140,10 +140,24 @@ Todas as ferramentas abaixo possuem versões gratuitas:
 
 ---
 
-## Dicas Finais
+# 🎤 Pitch
+- Prepare um pitch de 3 minutos apresentando:
 
-1. **Comece pelo prompt:** Um bom system prompt é a base de um agente eficaz
-2. **Use os dados mockados:** Eles garantem consistência e evitam problemas com dados sensíveis
-3. **Foque na segurança:** No setor financeiro, evitar alucinações é crítico
-4. **Teste cenários reais:** Simule perguntas que um cliente faria de verdade
-5. **Seja direto no pitch:** 3 minutos passam rápido, vá ao ponto
+- Qual problema o agente resolve
+
+- Como funciona na prática
+
+- Por que é inovador
+
+# ✅ Dicas Finais
+## Comece pelo system prompt
+
+- Use os dados mockados para consistência
+
+- Foque na segurança (anti-alucinação)
+
+- Teste cenários reais de clientes
+
+- Seja direto no pitch
+
+📌 Autor: Alessandro Campos (github.com in Bing)  
